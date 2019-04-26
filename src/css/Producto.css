@@ -21,28 +21,28 @@ ul.lista-productos li:nth-child(2n+1) {
     clear: both;
 }
 ul.lista-productos li img {
-    border: 10px solid rgba(128,1,195,.45);
+    border: 10px solid rgba(2, 30, 75, 0.767);
     max-width: 100%;
 }
 ul.lista-productos li img:hover {
-    border: 10px solid #8001c3;
+    border: 10px solid #3780f6e5;
 }
 ul.lista-productos li p {
     font-size: 28px;
     font-weight: bold;
-    color: #ffffff;
+    color: #010524;
     margin:10px 0 0 0;
 }
 ul.lista-productos li p span {
-    color: #ffce00;
+    color: #a7e752;
     font-size: 40px;
 }
 ul.lista-productos li a {
-    background-color: #ffce00;
+    background-color: #a7e752;
     padding: 10px 40px;
     display: inline-block;
     margin-top: 10px;
-    color: #8001c3;
+    color: #014797;
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
