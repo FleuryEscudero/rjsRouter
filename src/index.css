@@ -1,0 +1,44 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+  
+}
+*, *:before, *:after {
+box-sizing: inherit;
+}
+body {
+  font-family: arial,helvetica, sans-serif;
+  height: 100%;
+  margin: 0;
+  margin-bottom: 10rem;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e570e7+0,c85ec7+47,a849a3+100;Pink+3D+%233 */
+  background: #1380da; /* Old browsers */
+  margin-bottom: 10rem;
+  background: -moz-linear-gradient(top, #1380da 0%, #2c7ec0 47%, #84d0f3 100%); /* FF3.6-15 */
+  margin-bottom: 10rem;
+  background: -webkit-linear-gradient(top, #1380da 0%,#2c7ec0 47%,#84d0f3 100%); /* Chrome10-25,Safari5.1-6 */
+  margin-bottom: 10rem;
+  background: linear-gradient(to bottom, #1380da 0%,#2c7ec0 47%,#84d0f3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin-bottom: 10rem;
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1380da', endColorstr='#84d0f3',GradientType=0 );
+  margin-bottom: 10rem;
+}
+header {
+text-align: center;
+padding: 20px 0;
+}
+div.contenedor {
+  max-width: 800px;
+  width: 95%;
+  margin: 0 auto;
+}
+div.hero img {
+  width: 100%;
+}
+h2 {
+text-align: center;
+color: white;
+text-transform: uppercase;
+}
